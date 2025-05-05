@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/apifox-apifox-mcp-server-badge.png)](https://mseep.ai/app/apifox-apifox-mcp-server)
+
 # Apifox MCP Server
 
 使用 Apifox MCP Server，可以将 Apifox 项目内的接口文档作为数据源提供给 Cursor 等支持 AI 编程的 IDE 工具以便让 AI 能够直接访问项目对应的接口文档数据。
